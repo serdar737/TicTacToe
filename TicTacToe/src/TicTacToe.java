@@ -1,4 +1,6 @@
-
+/**
+ * Klasse TicTacToe
+ */
 public class TicTacToe {
 	Controller controller;
 	
