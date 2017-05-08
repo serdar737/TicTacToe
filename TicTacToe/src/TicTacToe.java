@@ -1,5 +1,6 @@
 /**
  * Klasse TicTacToe
+ * Kirsten hat nen kleinen.
  */
 public class TicTacToe {
 	Controller controller;
