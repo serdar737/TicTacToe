@@ -18,7 +18,7 @@ public class Controller {
 		
 		@Override
 		public void actionPerformed(ActionEvent e) {
-			// Index ausVire holen
+			// Index aus View holen
 			String dummy = e.getActionCommand();
 			int n = Integer.parseInt(dummy.substring(0,1));
 			int m = Integer.parseInt(dummy.substring(dummy.length()-1));
